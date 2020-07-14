@@ -14,7 +14,7 @@
     "refreshTokenExpiresAt": "3600"
   },  
   "validate": {
-    "valid": true,    
+    "valid": true    
   },
   "sessions": {
     "identity": "Matt",
